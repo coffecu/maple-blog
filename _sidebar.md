@@ -1,3 +1,3 @@
-* [java 学习](Java/README.md)
-* [go 学习](Go/README.md)
-* [solidity 学习](Solidity/README.md)
+* [java 学习](java/README.md)
+* [go 学习](go/README.md)
+* [solidity 学习](solidity/README.md)
